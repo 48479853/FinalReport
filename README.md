@@ -9,6 +9,8 @@ and then install the requirements provided.
 
 
 The data like breast cancer, Iris and wine datasets were already loaded in the provided scripts so there is no need to download.
+
+The new dataset waw file has 649 rows and 12 columns collected via an anonymised survey and then another cleaned file was produced by using the preprocessing file with imputation, one-hot, checks. 
 Example final output of metrics comparision:
 DecisionTree (baseline) : Test Set Metrics 
 AUC:       0.707
